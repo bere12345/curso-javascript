@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "remera Inter Milan",
+        "precio": 21000,
+        "imagen": "assets/img/camisetas/01.jpg"
+    },
+
+
+
+    {
+        "nombre": "Campera Bayer Munich",
+        "precio": 21000,
+        "imagen": "assets/img/abrigos/02.jpg"
+    },
+
+
+
+    {
+        "nombre": "camieta Chelsea",
+        "precio": 22000,
+        "imagen": "assets/img/camisetas/05.jpg"
+    },
+
+
+
+    {
+        "nombre": "Pantalon psg Nike",
+        "precio": 18000,
+        "imagen": "assets/img/pantalones/02.jpg"
+    },
+
+
+
+    {
+        "nombre": "Campera suecia",
+        "precio": 41000,
+        "imagen": "assets/img/abrigos/04.jpg"
+    }
+]
